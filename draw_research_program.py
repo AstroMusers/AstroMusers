@@ -10,9 +10,6 @@ import matplotlib.pyplot as plt
 Generate a graph of repositories and papers
 '''
 
-# future namespace
-# nicomedia
-
 
 typefileplot = 'png'
 
